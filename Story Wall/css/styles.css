@@ -10097,39 +10097,39 @@ section.resume-section .resume-section-content {
 }
 
 .storywall{
-  padding: 0;
+  padding: 50px;
 }
 
 @media (max-width: 576px) {
   .t1 {
     height: auto;
-    width: 35%;
+    width: 32%;
   }
 }
 @media (max-width: 768px) {
   .t1 {
     height: auto;
-    width: 35%;
+    width: 32%;
 
   }
 }
 @media (max-width: 992px) {
   .t1 {
     height: auto;
-    width: 35%;
+    width: 32%;
   }
 }
 @media (max-width: 1200px) {
   .t1 {
     height: auto;
-    width: 35%;
+    width: 32%;
   }
 }
 
 @media (max-width: 2000px) {
   .t1 {
     height: auto;
-    width: 35%;
+    width: 32%;
   }
 }
 
@@ -10172,4 +10172,12 @@ section.resume-section .resume-section-content {
 
 .t2:hover{
   transform: scale(1.2);
+}
+
+.t1{
+  margin: 2%;
+}
+
+.t2{
+  margin: 2%;
 }
